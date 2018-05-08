@@ -6,6 +6,7 @@ package com.example.annotations;
 
 public class ddddd {
     public static String getT() {
+
         return "";
     }
 }
